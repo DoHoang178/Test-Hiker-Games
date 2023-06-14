@@ -1,0 +1,15 @@
+D:\TestHikergame\bai3\bai3\bin\Debug\net6.0\bai3.exe
+D:\TestHikergame\bai3\bai3\bin\Debug\net6.0\bai3.deps.json
+D:\TestHikergame\bai3\bai3\bin\Debug\net6.0\bai3.runtimeconfig.json
+D:\TestHikergame\bai3\bai3\bin\Debug\net6.0\bai3.dll
+D:\TestHikergame\bai3\bai3\bin\Debug\net6.0\bai3.pdb
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.csproj.AssemblyReference.cache
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.AssemblyInfoInputs.cache
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.AssemblyInfo.cs
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.csproj.CoreCompileInputs.cache
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.dll
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\refint\bai3.dll
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.pdb
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\bai3.genruntimeconfig.cache
+D:\TestHikergame\bai3\bai3\obj\Debug\net6.0\ref\bai3.dll
